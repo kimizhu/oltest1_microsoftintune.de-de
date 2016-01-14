@@ -1,0 +1,1 @@
+Gehörlose oder Hörgeschädigte haben über einen Texttelefondienst (TTY/TDD) Zugriff auf alle Produkt- und Kundendienste von Microsoft:

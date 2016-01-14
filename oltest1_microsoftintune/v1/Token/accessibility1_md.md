@@ -1,0 +1,1 @@
+Microsoft ist bestrebt, Produkte und Dienste möglichst benutzerfreundlich zu gestalten. In den nachfolgenden Abschnitten finden Sie Informationen zu den Features, Produkten und Diensten, die den Zugriff auf Microsoft® Windows® für Personen mit Behinderungen vereinfachen.

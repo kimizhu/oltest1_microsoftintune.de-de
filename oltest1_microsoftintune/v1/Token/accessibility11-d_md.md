@@ -1,0 +1,1 @@
+Telefonnummer außerhalb der USA und Kanada: (609) 452-0606
