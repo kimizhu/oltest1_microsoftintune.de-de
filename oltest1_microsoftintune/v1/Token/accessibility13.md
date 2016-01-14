@@ -1,0 +1,1 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">Gehörlose oder Hörgeschädigte haben über einen Texttelefondienst (TTY/TDD) Zugriff auf alle Produkt- und Kundendienste von Microsoft:</Token>

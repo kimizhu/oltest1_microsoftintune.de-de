@@ -1,0 +1,1 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">Sie können den Kundendienst über das Microsoft Sales Information Center unter (800) 892-5234 zwischen 6:30 Uhr und 17:30 Uhr Pacific Time von Montag bis Freitag (außer an Feiertagen) erreichen.</Token>

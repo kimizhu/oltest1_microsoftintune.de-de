@@ -1,0 +1,1 @@
+Weitere Informationen dazu, wie Barrierefreiheitstechnologie für Computer das Leben von Menschen mit Behinderungen erleichtern kann, finden Sie unter [Microsoft Accessibility (Microsoft-Barrierefreiheit)](http://go.microsoft.com/fwlink/?LinkId=8431).

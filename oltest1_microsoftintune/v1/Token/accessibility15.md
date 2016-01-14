@@ -1,0 +1,1 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">Technische Hilfe in den USA erhalten Sie vom Microsoft-Produktsupport zwischen 6:00 und 18:00 Uhr Pacific Time von Montag bis Freitag außer an Feiertagen unter Tel. (800) 892-5234. In Kanada wählen Sie montags bis freitags außer an Feiertagen die Nummer (905) 568-9641 zwischen 8:00 und 20:00 Uhr Eastern Time.</Token>

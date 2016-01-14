@@ -1,0 +1,1 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">Für den Microsoft-Produktsupport gelten die zum Zeitpunkt der Inanspruchnahme des Supports gültigen Preise und Bestimmungen.</Token>
